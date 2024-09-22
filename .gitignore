@@ -25,3 +25,11 @@ hs_err_pid*
 .project
 .classpath
 .settings/*
+
+.dockerignore
+.gitignore
+*.DS_Store
+target/
+*.iml
+*.md
+src/main/docker/
